@@ -2,6 +2,8 @@
 <a href="https://www.notion.so/Woo-Yejin-5a179cfa597c47e5acea4a796244898d?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=plastic&logo=Notion&logoColor=000000"/></a>
 <a href="https://www.instagram.com/prixmezin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=000000"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prixmezin&show_icons=true&theme=yeblu)
+
 
 
 
